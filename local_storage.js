@@ -1,4 +1,4 @@
-var core_1 = require('angular2/core');
+var core_1 = require('@angular/core');
 var LocalStorage = (function () {
     function LocalStorage() {
         if (!localStorage) {
